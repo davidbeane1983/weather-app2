@@ -1,0 +1,9 @@
+.center {
+    background: blue;
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+.borders {
+    border: black;
+}
